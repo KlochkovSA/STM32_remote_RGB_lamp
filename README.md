@@ -2,3 +2,5 @@
 
 
 ![schematic](sch.jpg)
+
+![schematic](sch2.png)
